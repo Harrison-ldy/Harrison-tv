@@ -19,6 +19,24 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/wooyun_tu.js"
     },
     {
+      "name": "独播库",
+      "type": 3,
+      "api": "csp_duboku",
+      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
+    },
+    {
+      "name": "金牌影院",
+      "type": 3,
+      "api": "csp_jpyy",
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+    },
+    {
+      "name": "[兔]爱电影🎬️",
+      "type": 3,
+      "api": "csp_ivdy_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ivdy_tu.js"
+    },
+    {
       "name": "新浪|点播",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
@@ -27,6 +45,12 @@
       "name": "牛牛|点播",
       "type": 1,
       "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "[兔]枫叶影院🎬️",
+      "type": 3,
+      "api": "csp_maihaolian_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/maihaolian_tu.js"
     },
     {
       "name": "360|点播",
@@ -152,22 +176,10 @@
       "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/zxzj.js"
     },
     {
-      "name": "独播库",
-      "type": 3,
-      "api": "csp_duboku",
-      "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
-    },
-    {
       "name": "4k-av",
       "type": 3,
       "api": "csp_4kav",
       "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
-    },
-    {
-      "name": "金牌影院",
-      "type": 3,
-      "api": "csp_jpyy",
-      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
     },
     {
       "name": "燒火電影",
@@ -240,12 +252,6 @@
       "type": 3,
       "api": "csp_ylys",
       "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ylys.js"
-    },
-    {
-      "name": "[兔]趣盘搜☁️",
-      "type": 3,
-      "api": "csp_qps_tu",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/qps_tu.js"
     },
     {
       "name": "[兔]人人电影网☁️",
