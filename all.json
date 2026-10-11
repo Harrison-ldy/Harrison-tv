@@ -272,12 +272,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ddysio_tu.js"
     },
     {
-      "name": "[兔]落雪影视(无搜索)🎬",
-      "type": 3,
-      "api": "csp_luoxueys_tu",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/luoxueys_tu.js"
-    },
-    {
       "name": "[兔]旺旺影视(无搜索)🎬",
       "type": 3,
       "api": "csp_wangwangys_tu",
